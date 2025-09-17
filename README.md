@@ -1,2 +1,2 @@
-# LyraArchive__Music_Diary
+# LyraArchive
 🎵 Lyra Archive – A music journaling app that turns your albums into constellations.
