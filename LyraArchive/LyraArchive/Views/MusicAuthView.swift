@@ -2,6 +2,8 @@
 //  MusicAuthView.swift
 //  LyraArchive
 //
+//  MusicKit 권한을 확인하기 위한 페이지.
+//
 //  Created by 하동훈 on 20/9/2025.
 //
 

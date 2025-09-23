@@ -11,7 +11,9 @@ import SwiftUI
 struct LyraArchiveApp: App {
     var body: some Scene {
         WindowGroup {
-            // 
+            let ctx = PersistenceController.shared.container.viewContext
+            ArchiveListView(context: ctx)
+                .environment(\.managedObjectContext, ctx)
         }
     }
 }
